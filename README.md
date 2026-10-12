@@ -61,7 +61,7 @@ pre-entrega-automation-testing-[nombre-apellido]/
 
 ```bash
 git clone https://github.com/ailuni12/pre-entrega-automation-testing-ailin-nicliz.git
-cd pre-entrega-automation-testing-[nombre-apellido]
+cd pre-entrega-automation-testing-ailin-nicliz
 ```
 
 ### 2. Crear y activar un entorno virtual (recomendado)
